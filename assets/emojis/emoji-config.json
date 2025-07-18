@@ -1,0 +1,120 @@
+{
+  "version": "1.0.0",
+  "emojis": {
+    "smile": {
+      "name": "smile",
+      "image": "v2-06d341e6b7d0ae30244e121786ffc817_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Smiling face"
+    },
+    "laugh": {
+      "name": "laugh",
+      "image": "v2-8ab0c7be5bc3c939ce51a82548688b70_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Laughing face"
+    },
+    "heart": {
+      "name": "heart",
+      "image": "v2-10e71e64097d4f40f6e0509f83bf32e4_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Red heart"
+    },
+    "thumbs_up": {
+      "name": "thumbs_up",
+      "image": "v2-bfd8c54e2e4b0348278c8f47cc3959a7_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Thumbs up"
+    },
+    "fire": {
+      "name": "fire",
+      "image": "v2-ea7dd9818773cd6ee0483df7ce98c9c9_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Fire"
+    },
+    "party": {
+      "name": "party",
+      "image": "v2-52ca3d1a7c5312304a19ef9a14ae3af8_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Party face"
+    },
+    "cool": {
+      "name": "cool",
+      "image": "v2-761c41fb199d470698547056162cac25_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Cool face with sunglasses"
+    },
+    "wink": {
+      "name": "wink",
+      "image": "v2-1292a1f80f35fe62f62ae2a4b3111991_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Winking face"
+    },
+    "happy": {
+      "name": "happy",
+      "image": "v2-3bbdd26101ea0f9cb02b554cf01a20d1_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Happy face"
+    },
+    "sad": {
+      "name": "sad",
+      "image": "v2-ca29daf18a03452448adb8e8e5ca9812_b.jpg",
+      "width": 24,
+      "height": 24,
+      "description": "Sad face"
+    },
+    "angry": {
+      "name": "angry",
+      "image": "v2-1f7aa843a3fdba53a0e9bc68df43c900_b.webp",
+      "width": 24,
+      "height": 24,
+      "description": "Angry face"
+    },
+    "sleepy": {
+      "name": "sleepy",
+      "image": "v2-aa54b7872a98efe9400f32c8149c1184_b.webp",
+      "width": 24,
+      "height": 24,
+      "description": "Sleepy face"
+    },
+    "thinking": {
+      "name": "thinking",
+      "image": "v2-c5a8f09fc11e0b19ed8085266dcc6801_b.webp",
+      "width": 24,
+      "height": 24,
+      "description": "Thinking face"
+    },
+    "shocked": {
+      "name": "shocked",
+      "image": "v2-8c0630ce70d80b1af5e5eb7057d008b0_b.webp",
+      "width": 24,
+      "height": 24,
+      "description": "Shocked face"
+    }
+  },
+  "categories": {
+    "faces": ["smile", "laugh", "party", "cool", "wink", "happy", "sad", "angry", "sleepy", "thinking", "shocked"],
+    "gestures": ["thumbs_up"],
+    "objects": ["heart", "fire"]
+  },
+  "settings": {
+    "defaultSize": {
+      "width": 24,
+      "height": 24
+    },
+    "maxSize": {
+      "width": 48,
+      "height": 48
+    },
+    "supportedFormats": ["gif", "png", "jpg", "webp"]
+  }
+}
+

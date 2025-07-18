@@ -1,0 +1,53 @@
+# Development files
+example/
+docs/
+.github/
+.vscode/
+*.log
+*.tgz
+
+# Build artifacts
+lib/typescript/example/
+ios/build/
+android/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+
+# Test files
+__tests__/
+__fixtures__/
+__mocks__/
+*.test.*
+*.spec.*
+
+# Configuration files
+.eslintrc.*
+.prettierrc.*
+babel.config.js
+metro.config.js
+jest.config.js
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+
