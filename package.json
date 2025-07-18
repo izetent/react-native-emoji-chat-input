@@ -1,6 +1,6 @@
 {
   "name": "react-native-emoji-chat-input",
-  "version": "2.0.0",
+  "version": "0.0.1",
   "description": "A custom chat input component for React Native with emoji and text mixed layout support",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -50,13 +50,13 @@
     "gif",
     "animated"
   ],
-  "repository": "https://github.com/yourusername/react-native-emoji-chat-input",
-  "author": "Your Name <your.email@example.com> (https://github.com/yourusername)",
+  "repository": "https://github.com/izetent/react-native-emoji-chat-input",
+  "author": "izetent <izetent@gmail.com> (https://github.com/izetent)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/react-native-emoji-chat-input/issues"
+    "url": "https://github.com/izetent/react-native-emoji-chat-input/issues"
   },
-  "homepage": "https://github.com/yourusername/react-native-emoji-chat-input#readme",
+  "homepage": "https://github.com/izetent/react-native-emoji-chat-input#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
